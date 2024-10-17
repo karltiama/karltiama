@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Karl
 
 ## 🚀 About Me
-I'm a passionate Software Developer based in Michigan. I love [todo].
+I'm a passionate Software Developer based in Michigan.
 
 ## 🛠 Skills
 - Programming Languages: Typescript, Javascript, Python
