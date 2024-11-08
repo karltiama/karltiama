@@ -10,6 +10,6 @@ I'm a passionate Software Developer based in Michigan.
 
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn profile URL]
-- Email: [Your email address]
-- Twitter: [@YourTwitterHandle]
+- LinkedIn: https://www.linkedin.com/in/karl-tiama-54639b119/
+- Email: KarlTiama@gmail.com
+- Twitter: https://x.com/KodeWithKarl
