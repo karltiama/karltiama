@@ -2,9 +2,7 @@
 
 Full-stack developer with a backend focus, building data-driven systems, analytics platforms, and scalable web applications.
 
-I’m especially interested in turning raw data into actionable insights — whether that’s through real-time pipelines, cloud infrastructure, or intuitive dashboards.
-
----
+I’m especially interested in turning raw data into actionable insights whether that’s through real-time pipelines, cloud infrastructure, or intuitive dashboards.
 
 ## What I’m Focused On
 
@@ -13,7 +11,6 @@ I’m especially interested in turning raw data into actionable insights — whe
 - Improving decision-making through data (not guesswork)
 - Leveling up in AWS and backend architecture
 
----
 
 ## Featured Projects
 
@@ -27,8 +24,6 @@ A real-time analytics system for evaluating player prop bets using automated dat
 
 Focus: data pipelines, system design, backend logic
 
----
-
 ### EnduroStats
 A full-stack fitness analytics platform designed to replicate and extend premium Strava insights.
 
@@ -37,8 +32,6 @@ A full-stack fitness analytics platform designed to replicate and extend premium
 - Dashboard-driven insights for athletes  
 
 Focus: product thinking and full-stack execution
-
----
 
 ## Tech Stack
 
@@ -54,23 +47,17 @@ Node.js, PostgreSQL (Supabase), REST APIs
 **Cloud and Infrastructure:**  
 AWS (Lambda, EventBridge), Terraform, Docker  
 
----
-
 ## Current Focus
 
 - Building more production-ready backend systems  
 - Improving data modeling and performance  
 - Applying CI/CD and system reliability practices  
 
----
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/karl-tiama-54639b119/  
 - Email: KarlTiama@gmail.com  
-- Twitter/X: https://x.com/KodeWithKarl  
-
----
+- Twitter/X: https://x.com/KodeWithKarl
 
 ## Recent Learnings
 
